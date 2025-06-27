@@ -4,6 +4,7 @@
 This an interactive Power BI dashboard that analyzes employee attrition data to help HR professionals to identify key trends and areas of concern across Departments, Job Roles, Education, Age.
 
 
+
 SHORT DESCRITION
 
 
@@ -19,7 +20,9 @@ Employee attrition is a key indicator of organizational health. This dashboard h
 
 
 
+
  TECH STACKS
+
  
  The dashboard was built using the following tools and technologies:
  
@@ -31,7 +34,9 @@ Employee attrition is a key indicator of organizational health. This dashboard h
 
 
 
+
 KEY KPI's(Top Row) 
+
 
 Total Employees: 1416
 
@@ -66,7 +71,9 @@ Attrition by Job Role (Bar chart) - This chart displays the distribution of attr
 
 
 
+
 INSIGHTS
+
 
 Younger and lower-paid employees are more likely to leave.
 
