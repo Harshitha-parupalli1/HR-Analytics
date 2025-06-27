@@ -35,7 +35,7 @@ Attrition by Salary (Bar chart) - This chart displays the distribution of attrib
 Attrition by Years at Company (Area chart)  -  Donut chart displays number/graph of attrition by age.
 Attrition by Job Role (Bar chart) - This chart displays the distribution of attribution of employees by Job Role.
 
-![HR Dashboard Screenshot]()
+![HR Dashboard Screenshot](https://github.com/Harshitha-parupalli1/HR-Analytics/blob/main/HR%20snap%20shot.png)
 
 INSIGHTS
 Younger and lower-paid employees are more likely to leave.
