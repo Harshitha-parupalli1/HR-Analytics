@@ -29,14 +29,11 @@ Employee attrition is a key indicator of organizational health. This dashboard h
 
 
 
- 
- The dashboard was built using the following tools and technologies:
- 
-• 📊 Power BI Desktop – Main data visualization platform used for report creation.
-
-• 📂 Power Query – Data transformation and cleaning data.
-
-• 🧠 DAX (Data Analysis Expressions) – Used for calculating measures.
+- Excel – Initial data cleaning, formatting, and preprocessing
+- Python (Pandas, Matplotlib)– Data exploration and trend analysis
+- SQL – writing queries aggregation for reporting
+- Power BI – Dashboard creation and data visualization
+- DAX (Data Analysis Expressions) – Used for calculating measures.
 
 
 
